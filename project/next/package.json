@@ -1,0 +1,14 @@
+{
+  "name": "@forest-cli-dev-template-project/next",
+  "version": "3.2.3",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
