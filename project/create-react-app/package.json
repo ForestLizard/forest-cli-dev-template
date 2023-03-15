@@ -1,6 +1,6 @@
 {
   "name": "@forest-cli-dev-template-project/create-react-app",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "",
   "main": "index.js",
   "publishConfig": {
